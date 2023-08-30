@@ -46,3 +46,13 @@ In this case study, we will delve into the development of a state-of-the-art ban
     * Implement multi-factor authentication for sensitive transactions.
     * Monitor and detect unusual activities to prevent unauthorized access.
 
+# The Process
+
+## Libraries
+I will start by gathering the different packages I think I'm going to be using. Should I need more along the way or need to switch some out I will but, I want to plot out a path before I start digging in so some of the "deafults" so to speak I will seetup upfront
+* [React Native Elements](https://reactnativeelements.com/)
+* [React Hook Form](https://react-hook-form.com/get-started)
+* [Native Wind](https://www.nativewind.dev/)
+* [React Native SVG](https://github.com/react-native-community/react-native-svg)
+* [React Native Async Storage](https://react-native-async-storage.github.io/async-storage/docs/install/)
+* [React Native Navigation](https://reactnavigation.org/docs/getting-started/)
